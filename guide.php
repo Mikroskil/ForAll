@@ -159,6 +159,40 @@
   </tr>
   <tr>
     <td colspan="3">
+     <tr>
+    <td><a href="http://mkiroskil.ac.id" target="_new"><img src="rio.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2"><h3>Mr. Subendrio</h3>
+      <table width="376" height="199" role="presentation">
+        <tbody>
+          <tr>
+            <th width="139" align="left">Tanggal Lahir</th>
+            <td width="208" > : 27 september 1993, P. Siantar</td>
+          </tr>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Status Hubungan</th>
+            <td>: Lajang</td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Agama</th>
+            <td>: Islam </td>
+          </tr>
+          <tr>
+            <th align="left">Tarif/hari</th>
+            <td>: Rp. 600.000</td>
+          </tr>
+        </tbody>
+    </table></td>
+    <td bgcolor="#000000">&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
     
     
     <form action="guide.php" method="post" >
