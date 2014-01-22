@@ -17,7 +17,7 @@
     <td colspan="3">
       <object type="application/x-shockwave-flash" data="baner.swf" width="669" height="200">
           <param name="quality" value="high" /> 
-      </object>
+          </object>
     </td>
     <td colspan="3"><a href="http://id.wikipedia.org/wiki/Kota_Sibolga" target="_new"><img src="sibolga.png" width="196" height="193" alt="1" /></a></td>
   </tr>
@@ -49,8 +49,39 @@
     <img src="rss.jpg" width="68" height="61" alt="1" /></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td colspan="2">&nbsp;</td>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="kasih.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2"><h3>MR.Labuhan Kasih</h3>
+      <table width="376" height="199" role="presentation">
+        <tbody>
+          <tr>
+            <th width="139" align="left">Tanggal Lahir</th>
+            <td width="208" >
+                : 10 November 1992, Sibolga
+            </td>
+          </tr>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Status Hubungan</th>
+            <td>: Lajang</td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Agama</th>
+            <td>: Protestan
+            </td>
+          </tr>
+          <tr>
+            <th align="left">Tarif/hari</th>
+            <td>: Rp. 600.000</td>
+          </tr>
+        </tbody>
+    </table></td>
     <td bgcolor="#000000"><?php
 	 
     include "koneksi.php";
@@ -107,12 +138,6 @@
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td colspan="2"><h3>&nbsp;</h3></td>
-    <td bgcolor="#000000"></td>
-    <td colspan="3">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
     <td colspan="2">&nbsp;</td>
     <td bgcolor="#000000">&nbsp;</td>
     <td colspan="3">&nbsp;</td>
@@ -158,43 +183,7 @@
     <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td colspan="2"><h3>&nbsp;</h3>
-      <table width="376" height="199" role="presentation">
-        <tbody>
-          <tr>
-            <th width="139" align="left">&nbsp;</th>
-            <td width="208" >&nbsp;</td>
-          </tr>
-        </tbody>
-        <tbody>
-        </tbody>
-        <tbody>
-        </tbody>
-        <tbody>
-          <tr>
-            <th align="left">&nbsp;</th>
-            <td>&nbsp;</td>
-          </tr>
-        </tbody>
-        <tbody>
-          <tr>
-            <th align="left">&nbsp;</th>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <th align="left">&nbsp;</th>
-            <td>&nbsp;</td>
-          </tr>
-        </tbody>
-    </table></td>
-    <td bgcolor="#000000">&nbsp;</td>
-    <td colspan="3">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="3">
-     <tr>
-    <td><a href="http://mkiroskil.ac.id" target="_new"><img src="rio.png" width="234" height="238" alt="1" /></a></td>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="rio.png" width="234" height="238" alt="1" /></a></td>
     <td colspan="2"><h3>Mr. Subendrio</h3>
       <table width="376" height="199" role="presentation">
         <tbody>
@@ -227,10 +216,67 @@
     <td bgcolor="#000000">&nbsp;</td>
     <td colspan="3">&nbsp;</td>
   </tr>
+  <tr>
+    <td colspan="3">
     
     
     <form action="guide.php" method="post" >
-    </form>
+<table width="411" border="0">
+<tr>
+<td colspan="4" bgcolor="#666666"><i>Isi Form DIbawah Ini untuk Menghubungi Guide Si Bolang</i></td>
+</tr>
+<tr>
+<td width="4" bgcolor="#999999">&nbsp;</td>
+<td width="133">Nama</td>
+<td width="253"><label>
+<input name="nama" type="text" size="30" maxlength="20">
+</label></td>
+<td width="3" bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#999999">&nbsp;</td>
+<td>Email</td>
+<td><label>
+<input name="email" type="text" id="txtemail" size="30" maxlength="30">
+</label></td>
+<td bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#999999">&nbsp;</td>
+<td>No. HP </td>
+<td><label>
+<input name="hp" type="text" id="txtblog" size="30" maxlength="40">
+</label></td>
+<td bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#999999">&nbsp;</td>
+<td>Facebook </td>
+<td><label>
+<input name="fb" type="text" id="txtym" size="30" maxlength="20">
+</label></td>
+<td bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#999999">&nbsp;</td>
+<td height="53">Pesan</td>
+<td><label>
+<textarea name="pesan" cols="30" rows="4" id="txtpesan" maxlength="1024" ></textarea>
+</label></td>
+<td bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#999999">&nbsp;</td>
+<td>&nbsp;</td>
+<td><label>
+<input  type="submit"  value="Kirim" >
+<input  type="reset"  value="Batal">
+</label></td>
+<td bgcolor="#999999">&nbsp;</td>
+</tr>
+<tr> <td colspan="4" bgcolor="#999999">&nbsp;</td></tr>
+</table>
+</form>
 
 
 
