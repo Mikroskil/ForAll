@@ -66,6 +66,20 @@
     <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="poncan.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2"><p align="justify"><strong>2. Pantai Poncan</strong>    <br/>
+      Pulau Poncan Gadang merupakan salah satu tempat   objek wisata yang cukup   terkenal di Kota Sibolga, karena memiliki   lokasi memancing dan tempat   menyelam bagi wisatawan lokal dan   mancanegara.   <br/><br/>   Pulau Poncan itu dulunya tempat persembunyian bagi   tentera Jepang dan   juga memiliki goa yang cukup panjang, namun tidak   pernah dimasuki   masyarakat.  
+      <br/><br/>Pulau Poncan itu jaraknya sekitar lebih   kurang3   mil dari pantai Sibolga atau 364 Km arah timur Kota Medan.   Misnal   mengatakan, Pulau Poncan itu tidak hanya ramaidikunjungi pada   Idul   Fitri, tetapi juga pada hari-hari biasa maupun hari Minggu.</p></td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><p align="justify">Warga yang mengunjungi lokasi pulau itu,   tidak hanya melihat   pantainya yang indah atau penginapan yang ada tempat   itu, melainkan   juga untuk mandi dan berenang di pinggir pantai.
+    <br/><br/>Apalagi, katanya, air laut di pulau itu juga sangat   jernih dan belum   tercemar, sehingga para pengunjung merasa senang   berendam sembari   melihat keindahan terumbu karang yang terdapat di   dasar laut.</p></td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
     <td>&nbsp;</td>
     <td colspan="2"><p align="justify">&nbsp;</p></td>
     <td>&nbsp;</td>
