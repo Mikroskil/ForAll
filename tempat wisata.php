@@ -80,6 +80,33 @@
     <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="barus.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2" ><p align="justify"><strong>3. Pantai bosur</strong>
+    <br/><br/>Pantai Bosur salah satu pantai yang belum banyak dikenal masyarakat sibolga.   Karena pantai ini masih dalam tahap <br/><br/>rintisan.sehingga sarana dan prasarananya masih dalam tahap pembangunan.</p></td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2" >&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="kahona.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2"><p align="justify"><strong>4. Pantai Kahona </strong>      <br/><br/>Pantai Kahona merupakan sebuah teluk kecil yang   memiliki Pantai   sepanjang 5 km, mulai dari Kualo Simamatco sampai   dengan Kualo Sipaubat,   dengan Pasir Putih halus dan pantai yang   landai.<br>
+        <br>
+        Pantai Kahona  terletak di Desa Lobu Tua kec. Andan   Dewi Barus sekitar 9   km dari pusat kecamatan kota Barus.  dan 5 km   dari pusat kecamatan   Andan Dewi, dan dari Pusat Pemerintahan kabupaten   di Sibolga sekitar 70   km dapat ditempuh kurang lebih 2 jam perjalanan   darat.<br>
+    Anda tertarik untuk mengunjunginya? atau membuat investasi disana?</p></td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><p align="justify">Setiap libur lebaran seperti  sekarang ini dan libur Natal dan tahun     Baru sepanjang pantai kahona berubah menjadi lautan manusia dan     sayangnya pemerintah setempat kurang pekat melihat situasi seperti itu     untuk pengembangan parwisata  didaerah sendiri.</p></td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
     <td>&nbsp;</td>
     <td colspan="2"><p align="justify">&nbsp;</p></td>
     <td>&nbsp;</td>
