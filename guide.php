@@ -72,6 +72,40 @@
     <td colspan="3">&nbsp;</td>
   </tr>
   <tr>
+    <td><a href="http://mikroskil.ac.id" target="_new"><img src="habi.png" width="234" height="238" alt="1" /></a></td>
+    <td colspan="2"><h3>MR.M. Habibi</h3>
+      <table width="376" height="199" role="presentation">
+        <tbody>
+          <tr>
+            <th width="139" align="left">Tanggal Lahir</th>
+            <td width="208" > : 27 Januari 1992, Rantauprapat</td>
+          </tr>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Status Hubungan</th>
+            <td>: Lajang</td>
+          </tr>
+        </tbody>
+        <tbody>
+          <tr>
+            <th align="left">Agama</th>
+            <td>: Islam </td>
+          </tr>
+          <tr>
+            <th align="left">Tarif/hari</th>
+            <td>: Rp. 600.000</td>
+          </tr>
+        </tbody>
+    </table></td>
+    <td bgcolor="#000000"></td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
     <td>&nbsp;</td>
     <td colspan="2"><h3>&nbsp;</h3></td>
     <td bgcolor="#000000"></td>
